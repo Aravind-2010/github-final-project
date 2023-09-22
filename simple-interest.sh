@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder
 # Additional Authors:
-# <your GitHub username>
+# Aravind-2010
 
 # Input:
 # p, principal amount
